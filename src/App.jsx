@@ -10,7 +10,7 @@ import Testimonials from './components/Testimonials';
 import Clients from './components/Clients';
 import SocialMedia from './components/SocialMedia';
 import ExportBanner from './components/ExportBanner';
-import CTA from './components/CTA';
+// import CTA from './components/CTA';
 import Footer from './components/Footer';
 import Floaters from './components/Floaters';
 
@@ -31,7 +31,7 @@ export default function App() {
       <Clients />
       <SocialMedia />
       <ExportBanner />
-      <CTA />
+      /* <CTA /> */
       <Footer />
       <Floaters />
     </div>
