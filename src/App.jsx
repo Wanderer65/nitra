@@ -31,7 +31,7 @@ export default function App() {
       <Clients />
       <SocialMedia />
       <ExportBanner />
-      /* <CTA /> */
+      {/* <CTA /> */}
       <Footer />
       <Floaters />
     </div>
